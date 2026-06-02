@@ -32,7 +32,7 @@ This is a list of installed and wished-for plugins. We try to keep them up to da
 | omero-cli-zarr          | Installed           | 0.5.5   | — |
 | omero-rdf               | Installed           | 0.6.1   | — |
 | omero-web-zarr          | Installed           | 0.1.1   | — |
-| OpenLink                | Tested              | 2.0.0   | Bug: can’t connect to the `/openlink` area created. |
+| OpenLink                | Tested              | 2.1.2   | — |
 | Parade                  | Installed           | 0.2.4   | — |
 | TagSearch               | Tested           | 4.3.0   | — |
 | rocrate                 | Installed           | 0.13.0  | — |
